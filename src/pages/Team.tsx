@@ -11,13 +11,13 @@ export default function Team() {
       name: t('team.amir.name'),
       title: t('team.amir.title'),
       bio: t('team.amir.bio'),
-      image: 'https://images.unsplash.com/photo-1737574821698-862e77f044c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzc21hbiUyMHBvcnRyYWl0fGVufDF8fHx8MTc2MzczMTk3Mnww&ixlib=rb-4.1.0&q=80&w=1080'
+      image: '../assets/aa.PNG'
     },
     {
       name: t('team.kobra.name'),
       title: t('team.kobra.title'),
       bio: t('team.kobra.bio'),
-      image: 'https://images.unsplash.com/photo-1754298949882-216a1c92dbb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzc3dvbWFuJTIwcG9ydHJhaXR8ZW58MXx8fHwxNzYzNzE2ODkwfDA&ixlib=rb-4.1.0&q=80&w=1080'
+      image: '../assets/kh.PNG'
     }
   ];
 
